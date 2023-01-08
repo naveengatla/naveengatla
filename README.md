@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **naveengatla96@gmail.com**
 
+-  👨‍💻 All of my projects are available at [abc.def](abc.def)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naveen-gatla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-gatla" height="30" width="40" /></a>
