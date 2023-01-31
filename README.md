@@ -13,7 +13,7 @@
 
 - 📫 You can reach me: **naveengatla96@gmail.com**
 
--  👨‍💻 All of my projects are available at [abc.def](abc.def)
+-  👨‍💻 All of my projects are available at [https://naveengatla.github.io](https://naveengatla.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
