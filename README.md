@@ -1,4 +1,4 @@
-<!--[![MasterHead](https://www.learntek.org/blog/wp-content/uploads/2018/05/java2.jpg)](https://naveengatla.io)-->
+<!--[![MasterHead](https://www.learntek.org/blog/wp-content/uploads/2018/05/java2.jpg)](https://naveengatla.io)
 <h1 align="left">Hi 👋, I'm Naveen Gatla</h1>
 <h3 align="left">A passionate Java Developer</h3>
 <img align="right" alt="Coding" width="350" src="https://github.com/naveengatla/naveengatla/blob/main/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a47385357414955533.gif">
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=naveengatla&show_icons=true&locale=en" alt="naveengatla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveengatla&" alt="naveengatla" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveengatla&" alt="naveengatla" /></p>-->
